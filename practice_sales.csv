@@ -1,0 +1,528 @@
+QUANTITY,SALE TYPE,PAYMENT MODE,DISCOUNT %
+9,Wholesaler,Online,0.00%
+15,Online,Cash,0.00%
+6,Direct Sales,Cash,0.00%
+5,Direct Sales,Online,0.00%
+12,Online,Online,0.00%
+1,Direct Sales,Cash,0.00%
+8,Direct Sales,Cash,0.00%
+4,Direct Sales,Online,0.00%
+3,Direct Sales,Cash,0.00%
+4,Wholesaler,Online,0.00%
+4,Direct Sales,Online,0.00%
+10,Online,Cash,0.00%
+13,Direct Sales,Online,0.00%
+3,Online,Cash,0.00%
+6,Direct Sales,Cash,0.00%
+4,Direct Sales,Cash,0.00%
+4,Direct Sales,Cash,0.00%
+15,Wholesaler,Cash,0.00%
+9,Direct Sales,Online,0.00%
+6,Direct Sales,Online,0.00%
+6,Direct Sales,Cash,0.00%
+7,Direct Sales,Online,0.00%
+14,Direct Sales,Online,0.00%
+9,Wholesaler,Cash,0.00%
+7,Online,Cash,0.00%
+7,Online,Online,0.00%
+7,Wholesaler,Online,0.00%
+3,Wholesaler,Online,0.00%
+10,Online,Cash,0.00%
+2,Direct Sales,Cash,0.00%
+7,Online,Online,0.00%
+13,Direct Sales,Online,0.00%
+2,Wholesaler,Cash,0.00%
+4,Online,Online,0.00%
+7,Online,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+9,Direct Sales,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+14,Direct Sales,Online,0.00%
+7,Direct Sales,Cash,0.00%
+9,Online,Cash,0.00%
+4,Direct Sales,Online,0.00%
+6,Online,Cash,0.00%
+11,Online,Cash,0.00%
+5,Online,Cash,0.00%
+3,Direct Sales,Cash,0.00%
+2,Direct Sales,Online,0.00%
+4,Wholesaler,Online,0.00%
+11,Online,Cash,0.00%
+2,Direct Sales,Online,0.00%
+11,Wholesaler,Online,0.00%
+1,Direct Sales,Online,0.00%
+9,Direct Sales,Cash,0.00%
+6,Online,Cash,0.00%
+9,Online,Online,0.00%
+6,Wholesaler,Online,0.00%
+11,Direct Sales,Cash,0.00%
+10,Wholesaler,Cash,0.00%
+11,Online,Cash,0.00%
+14,Direct Sales,Cash,0.00%
+8,Wholesaler,Cash,0.00%
+9,Online,Cash,0.00%
+13,Online,Online,0.00%
+7,Direct Sales,Online,0.00%
+8,Online,Online,0.00%
+4,Online,Online,0.00%
+14,Online,Cash,0.00%
+4,Direct Sales,Cash,0.00%
+8,Direct Sales,Cash,0.00%
+2,Direct Sales,Online,0.00%
+4,Direct Sales,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+9,Direct Sales,Online,0.00%
+3,Direct Sales,Online,0.00%
+8,Online,Cash,0.00%
+1,Online,Cash,0.00%
+3,Direct Sales,Cash,0.00%
+4,Direct Sales,Cash,0.00%
+9,Online,Cash,0.00%
+15,Online,Online,0.00%
+3,Online,Online,0.00%
+14,Direct Sales,Online,0.00%
+3,Direct Sales,Cash,0.00%
+4,Direct Sales,Online,0.00%
+9,Direct Sales,Online,0.00%
+13,Direct Sales,Cash,0.00%
+3,Direct Sales,Online,0.00%
+15,Direct Sales,Cash,0.00%
+9,Wholesaler,Online,0.00%
+13,Direct Sales,Cash,0.00%
+6,Direct Sales,Online,0.00%
+10,Direct Sales,Online,0.00%
+2,Online,Online,0.00%
+3,Direct Sales,Online,0.00%
+7,Direct Sales,Online,0.00%
+1,Direct Sales,Online,0.00%
+3,Online,Cash,0.00%
+1,Online,Cash,0.00%
+3,Online,Online,0.00%
+13,Online,Online,0.00%
+4,Direct Sales,Cash,0.00%
+13,Direct Sales,Cash,0.00%
+15,Direct Sales,Online,0.00%
+6,Online,Online,0.00%
+1,Direct Sales,Cash,0.00%
+6,Online,Online,0.00%
+8,Direct Sales,Cash,0.00%
+3,Direct Sales,Online,0.00%
+15,Direct Sales,Online,0.00%
+4,Direct Sales,Online,0.00%
+2,Online,Cash,0.00%
+11,Direct Sales,Online,0.00%
+13,Online,Online,0.00%
+6,Online,Cash,0.00%
+10,Direct Sales,Cash,0.00%
+8,Wholesaler,Online,0.00%
+12,Online,Cash,0.00%
+15,Wholesaler,Online,0.00%
+10,Direct Sales,Online,0.00%
+6,Direct Sales,Online,0.00%
+11,Direct Sales,Online,0.00%
+11,Wholesaler,Cash,0.00%
+7,Direct Sales,Online,0.00%
+12,Wholesaler,Cash,0.00%
+6,Direct Sales,Online,0.00%
+10,Online,Cash,0.00%
+5,Wholesaler,Cash,0.00%
+12,Online,Cash,0.00%
+11,Direct Sales,Cash,0.00%
+13,Direct Sales,Cash,0.00%
+5,Direct Sales,Online,0.00%
+1,Wholesaler,Cash,0.00%
+4,Direct Sales,Online,0.00%
+13,Direct Sales,Online,0.00%
+7,Online,Online,0.00%
+11,Direct Sales,Cash,0.00%
+2,Online,Cash,0.00%
+7,Online,Online,0.00%
+4,Direct Sales,Online,0.00%
+11,Direct Sales,Cash,0.00%
+11,Direct Sales,Cash,0.00%
+9,Online,Cash,0.00%
+8,Online,Cash,0.00%
+8,Direct Sales,Online,0.00%
+15,Direct Sales,Cash,0.00%
+10,Direct Sales,Online,0.00%
+6,Wholesaler,Cash,0.00%
+4,Wholesaler,Online,0.00%
+1,Direct Sales,Cash,0.00%
+8,Wholesaler,Cash,0.00%
+14,Online,Online,0.00%
+11,Online,Online,0.00%
+5,Direct Sales,Online,0.00%
+15,Direct Sales,Online,0.00%
+3,Wholesaler,Cash,0.00%
+14,Online,Cash,0.00%
+7,Wholesaler,Online,0.00%
+8,Direct Sales,Online,0.00%
+4,Online,Cash,0.00%
+15,Online,Cash,0.00%
+11,Direct Sales,Cash,0.00%
+3,Direct Sales,Online,0.00%
+13,Online,Online,0.00%
+12,Online,Online,0.00%
+14,Direct Sales,Cash,0.00%
+1,Wholesaler,Cash,0.00%
+4,Wholesaler,Cash,0.00%
+10,Online,Cash,0.00%
+6,Direct Sales,Cash,0.00%
+4,Direct Sales,Online,0.00%
+13,Direct Sales,Online,0.00%
+9,Direct Sales,Online,0.00%
+3,Online,Online,0.00%
+6,Direct Sales,Online,0.00%
+15,Direct Sales,Cash,0.00%
+9,Direct Sales,Online,0.00%
+13,Direct Sales,Online,0.00%
+4,Direct Sales,Online,0.00%
+12,Wholesaler,Online,0.00%
+13,Direct Sales,Online,0.00%
+2,Direct Sales,Online,0.00%
+11,Direct Sales,Online,0.00%
+1,Wholesaler,Cash,0.00%
+14,Online,Online,0.00%
+8,Direct Sales,Online,0.00%
+7,Direct Sales,Online,0.00%
+15,Direct Sales,Online,0.00%
+1,Direct Sales,Cash,0.00%
+5,Direct Sales,Online,0.00%
+4,Direct Sales,Online,0.00%
+6,Direct Sales,Online,0.00%
+9,Wholesaler,Online,0.00%
+2,Direct Sales,Online,0.00%
+6,Wholesaler,Online,0.00%
+7,Direct Sales,Cash,0.00%
+6,Direct Sales,Online,0.00%
+14,Direct Sales,Online,0.00%
+7,Wholesaler,Cash,0.00%
+2,Online,Cash,0.00%
+4,Direct Sales,Cash,0.00%
+12,Direct Sales,Cash,0.00%
+7,Online,Online,0.00%
+1,Direct Sales,Cash,0.00%
+9,Online,Online,0.00%
+5,Online,Online,0.00%
+14,Online,Cash,0.00%
+15,Direct Sales,Online,0.00%
+9,Direct Sales,Online,0.00%
+1,Direct Sales,Online,0.00%
+12,Online,Online,0.00%
+6,Direct Sales,Cash,0.00%
+5,Direct Sales,Cash,0.00%
+11,Online,Cash,0.00%
+14,Direct Sales,Cash,0.00%
+15,Direct Sales,Cash,0.00%
+8,Online,Online,0.00%
+13,Direct Sales,Online,0.00%
+6,Online,Cash,0.00%
+13,Online,Cash,0.00%
+7,Direct Sales,Cash,0.00%
+13,Online,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+3,Wholesaler,Cash,0.00%
+9,Online,Cash,0.00%
+6,Wholesaler,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+14,Online,Online,0.00%
+6,Online,Cash,0.00%
+12,Direct Sales,Cash,0.00%
+10,Direct Sales,Online,0.00%
+15,Direct Sales,Online,0.00%
+6,Online,Cash,0.00%
+12,Wholesaler,Online,0.00%
+3,Online,Cash,0.00%
+14,Online,Online,0.00%
+11,Online,Cash,0.00%
+1,Wholesaler,Online,0.00%
+1,Online,Cash,0.00%
+8,Online,Online,0.00%
+2,Direct Sales,Cash,0.00%
+15,Direct Sales,Online,0.00%
+10,Direct Sales,Cash,0.00%
+2,Online,Cash,0.00%
+8,Online,Online,0.00%
+15,Direct Sales,Cash,0.00%
+1,Direct Sales,Online,0.00%
+8,Direct Sales,Online,0.00%
+14,Direct Sales,Online,0.00%
+4,Direct Sales,Online,0.00%
+2,Direct Sales,Cash,0.00%
+8,Online,Cash,0.00%
+12,Direct Sales,Online,0.00%
+3,Wholesaler,Online,0.00%
+10,Online,Online,0.00%
+14,Direct Sales,Online,0.00%
+10,Online,Cash,0.00%
+8,Wholesaler,Cash,0.00%
+8,Wholesaler,Online,0.00%
+14,Online,Cash,0.00%
+14,Direct Sales,Cash,0.00%
+6,Direct Sales,Cash,0.00%
+13,Online,Online,0.00%
+1,Wholesaler,Cash,0.00%
+7,Direct Sales,Cash,0.00%
+2,Online,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+9,Direct Sales,Cash,0.00%
+8,Direct Sales,Online,0.00%
+1,Online,Online,0.00%
+12,Direct Sales,Online,0.00%
+14,Online,Online,0.00%
+2,Direct Sales,Online,0.00%
+6,Online,Online,0.00%
+14,Direct Sales,Online,0.00%
+10,Direct Sales,Cash,0.00%
+11,Online,Cash,0.00%
+4,Online,Online,0.00%
+9,Wholesaler,Cash,0.00%
+2,Direct Sales,Cash,0.00%
+7,Online,Online,0.00%
+6,Online,Cash,0.00%
+5,Wholesaler,Cash,0.00%
+8,Direct Sales,Online,0.00%
+15,Online,Online,0.00%
+14,Direct Sales,Cash,0.00%
+11,Direct Sales,Online,0.00%
+6,Online,Cash,0.00%
+9,Direct Sales,Cash,0.00%
+9,Direct Sales,Cash,0.00%
+8,Direct Sales,Online,0.00%
+6,Direct Sales,Cash,0.00%
+6,Direct Sales,Cash,0.00%
+11,Online,Cash,0.00%
+3,Online,Cash,0.00%
+14,Online,Online,0.00%
+13,Direct Sales,Cash,0.00%
+8,Online,Cash,0.00%
+3,Direct Sales,Cash,0.00%
+1,Online,Cash,0.00%
+13,Online,Cash,0.00%
+6,Direct Sales,Cash,0.00%
+6,Online,Online,0.00%
+15,Online,Cash,0.00%
+8,Direct Sales,Online,0.00%
+7,Direct Sales,Cash,0.00%
+15,Direct Sales,Online,0.00%
+15,Direct Sales,Cash,0.00%
+13,Wholesaler,Online,0.00%
+2,Direct Sales,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+6,Direct Sales,Online,0.00%
+3,Direct Sales,Online,0.00%
+11,Online,Cash,0.00%
+12,Wholesaler,Online,0.00%
+2,Direct Sales,Cash,0.00%
+13,Direct Sales,Online,0.00%
+2,Online,Cash,0.00%
+10,Direct Sales,Cash,0.00%
+6,Wholesaler,Cash,0.00%
+9,Direct Sales,Cash,0.00%
+2,Wholesaler,Online,0.00%
+11,Direct Sales,Online,0.00%
+12,Online,Online,0.00%
+13,Online,Cash,0.00%
+2,Online,Cash,0.00%
+3,Direct Sales,Cash,0.00%
+2,Wholesaler,Cash,0.00%
+7,Direct Sales,Online,0.00%
+12,Wholesaler,Cash,0.00%
+9,Online,Online,0.00%
+14,Wholesaler,Online,0.00%
+9,Direct Sales,Cash,0.00%
+2,Wholesaler,Online,0.00%
+4,Direct Sales,Online,0.00%
+2,Direct Sales,Cash,0.00%
+14,Online,Online,0.00%
+15,Online,Online,0.00%
+4,Direct Sales,Online,0.00%
+9,Direct Sales,Cash,0.00%
+8,Online,Online,0.00%
+2,Direct Sales,Cash,0.00%
+14,Direct Sales,Cash,0.00%
+13,Online,Online,0.00%
+8,Direct Sales,Online,0.00%
+9,Wholesaler,Online,0.00%
+6,Online,Online,0.00%
+4,Online,Cash,0.00%
+10,Direct Sales,Online,0.00%
+7,Direct Sales,Online,0.00%
+4,Online,Cash,0.00%
+1,Online,Online,0.00%
+7,Online,Online,0.00%
+12,Wholesaler,Cash,0.00%
+6,Direct Sales,Online,0.00%
+7,Online,Cash,0.00%
+5,Direct Sales,Online,0.00%
+14,Direct Sales,Cash,0.00%
+5,Online,Online,0.00%
+13,Direct Sales,Cash,0.00%
+13,Online,Online,0.00%
+8,Direct Sales,Cash,0.00%
+4,Wholesaler,Online,0.00%
+8,Wholesaler,Online,0.00%
+15,Online,Cash,0.00%
+12,Direct Sales,Online,0.00%
+7,Online,Online,0.00%
+2,Direct Sales,Online,0.00%
+2,Online,Online,0.00%
+10,Wholesaler,Cash,0.00%
+5,Wholesaler,Online,0.00%
+9,Online,Cash,0.00%
+12,Online,Online,0.00%
+14,Direct Sales,Cash,0.00%
+9,Direct Sales,Online,0.00%
+4,Wholesaler,Cash,0.00%
+3,Online,Cash,0.00%
+14,Online,Online,0.00%
+8,Wholesaler,Online,0.00%
+13,Online,Cash,0.00%
+6,Direct Sales,Online,0.00%
+6,Direct Sales,Cash,0.00%
+15,Wholesaler,Online,0.00%
+15,Online,Cash,0.00%
+8,Direct Sales,Cash,0.00%
+14,Direct Sales,Cash,0.00%
+10,Online,Cash,0.00%
+4,Direct Sales,Cash,0.00%
+8,Direct Sales,Online,0.00%
+7,Direct Sales,Cash,0.00%
+7,Online,Online,0.00%
+4,Direct Sales,Cash,0.00%
+12,Direct Sales,Online,0.00%
+15,Direct Sales,Cash,0.00%
+7,Direct Sales,Online,0.00%
+7,Online,Cash,0.00%
+8,Direct Sales,Online,0.00%
+2,Direct Sales,Cash,0.00%
+2,Direct Sales,Online,0.00%
+12,Online,Cash,0.00%
+12,Direct Sales,Cash,0.00%
+7,Direct Sales,Online,0.00%
+9,Direct Sales,Online,0.00%
+2,Online,Online,0.00%
+8,Online,Cash,0.00%
+12,Direct Sales,Online,0.00%
+8,Wholesaler,Online,0.00%
+6,Direct Sales,Cash,0.00%
+2,Online,Online,0.00%
+14,Direct Sales,Cash,0.00%
+1,Online,Online,0.00%
+2,Direct Sales,Cash,0.00%
+12,Direct Sales,Cash,0.00%
+13,Online,Cash,0.00%
+10,Online,Online,0.00%
+1,Online,Cash,0.00%
+5,Direct Sales,Cash,0.00%
+9,Online,Online,0.00%
+2,Direct Sales,Online,0.00%
+12,Direct Sales,Cash,0.00%
+11,Direct Sales,Cash,0.00%
+14,Direct Sales,Cash,0.00%
+10,Wholesaler,Cash,0.00%
+7,Direct Sales,Online,0.00%
+8,Online,Online,0.00%
+2,Online,Cash,0.00%
+3,Online,Online,0.00%
+13,Direct Sales,Online,0.00%
+14,Direct Sales,Online,0.00%
+4,Direct Sales,Online,0.00%
+11,Online,Online,0.00%
+14,Direct Sales,Cash,0.00%
+5,Direct Sales,Cash,0.00%
+13,Wholesaler,Cash,0.00%
+8,Online,Online,0.00%
+15,Wholesaler,Online,0.00%
+9,Online,Online,0.00%
+5,Direct Sales,Online,0.00%
+6,Online,Cash,0.00%
+6,Direct Sales,Cash,0.00%
+5,Direct Sales,Cash,0.00%
+13,Direct Sales,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+12,Wholesaler,Online,0.00%
+9,Direct Sales,Online,0.00%
+3,Direct Sales,Online,0.00%
+15,Online,Cash,0.00%
+4,Direct Sales,Cash,0.00%
+3,Direct Sales,Cash,0.00%
+15,Online,Online,0.00%
+14,Online,Cash,0.00%
+8,Wholesaler,Cash,0.00%
+6,Direct Sales,Online,0.00%
+10,Direct Sales,Online,0.00%
+14,Online,Online,0.00%
+5,Direct Sales,Cash,0.00%
+12,Online,Online,0.00%
+12,Direct Sales,Online,0.00%
+14,Direct Sales,Online,0.00%
+8,Direct Sales,Cash,0.00%
+4,Direct Sales,Cash,0.00%
+9,Direct Sales,Cash,0.00%
+3,Wholesaler,Cash,0.00%
+13,Direct Sales,Online,0.00%
+5,Direct Sales,Cash,0.00%
+15,Direct Sales,Online,0.00%
+1,Direct Sales,Online,0.00%
+14,Online,Online,0.00%
+9,Direct Sales,Online,0.00%
+12,Online,Online,0.00%
+10,Direct Sales,Online,0.00%
+15,Online,Online,0.00%
+15,Wholesaler,Online,0.00%
+10,Direct Sales,Cash,0.00%
+3,Online,Online,0.00%
+14,Online,Cash,0.00%
+3,Direct Sales,Cash,0.00%
+8,Direct Sales,Online,0.00%
+15,Wholesaler,Online,0.00%
+15,Wholesaler,Cash,0.00%
+15,Direct Sales,Cash,0.00%
+5,Direct Sales,Cash,0.00%
+11,Online,Online,0.00%
+10,Direct Sales,Online,0.00%
+15,Direct Sales,Cash,0.00%
+13,Direct Sales,Cash,0.00%
+13,Online,Online,0.00%
+13,Direct Sales,Cash,0.00%
+13,Online,Cash,0.00%
+11,Wholesaler,Cash,0.00%
+10,Wholesaler,Online,0.00%
+8,Online,Cash,0.00%
+7,Direct Sales,Online,0.00%
+10,Wholesaler,Cash,0.00%
+1,Direct Sales,Cash,0.00%
+14,Direct Sales,Cash,0.00%
+8,Online,Online,0.00%
+8,Direct Sales,Cash,0.00%
+6,Direct Sales,Cash,0.00%
+12,Online,Online,0.00%
+5,Direct Sales,Cash,0.00%
+5,Direct Sales,Online,0.00%
+15,Direct Sales,Online,0.00%
+8,Direct Sales,Cash,0.00%
+2,Direct Sales,Online,0.00%
+5,Wholesaler,Cash,0.00%
+10,Direct Sales,Cash,0.00%
+15,Direct Sales,Cash,0.00%
+12,Direct Sales,Cash,0.00%
+13,Direct Sales,Online,0.00%
+5,Direct Sales,Cash,0.00%
+5,Direct Sales,Online,0.00%
+9,Wholesaler,Online,0.00%
+10,Online,Cash,0.00%
+9,Wholesaler,Cash,0.00%
+10,Wholesaler,Online,0.00%
+4,Direct Sales,Cash,0.00%
+13,Direct Sales,Online,0.00%
+7,Direct Sales,Online,0.00%
+14,Direct Sales,Cash,0.00%
+11,Online,Online,0.00%
+10,Direct Sales,Online,0.00%
+15,Direct Sales,Online,0.00%
+1,Wholesaler,Cash,0.00%
+14,Direct Sales,Online,0.00%
+12,Online,Online,0.00%
+6,Online,Online,0.00%
+3,Wholesaler,Cash,0.00%
